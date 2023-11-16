@@ -2,8 +2,9 @@ Title:*************  Toy Bank App  ****************************
 
 *****NOTE: In both the classbank.py and BankApp.py files you need to change the path wherever there is an open() command i.e change C:\\Users\\aksha\\ path to your path.
 
+![bank_app](bank_app.png)
 
-link to the program output: 
+
 
 **Description:
 
