@@ -15,7 +15,7 @@ The objective of this program is to put into use various basic concepts such as 
 
 **Customization:
 
-You can customize this project in any way possible. You can add more functionalities to this bank app for example you can add beneficiary and try adding this new information in the self.x object in the classbank.py file so that when the user tries to access the transactions they can view their beneficiaries (note that this is a bit challenging! you need to know the entire code to do this!).
+You can customize this project in any way possible. You can add more functionalities to this bank app for example you can add your beneficiaries and try adding this new information in the self.x object in the classbank.py file so that when the user tries to access the transactions they can view their beneficiaries (note that this is a bit challenging! you need to know the entire code to do this!).
 
 
 
